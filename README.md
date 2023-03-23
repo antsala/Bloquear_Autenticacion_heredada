@@ -32,5 +32,7 @@ Habilitamos la política en ***modo de auditoría***. Verificamos que todo vaya 
 
 ![Block](./img/202303171054.png)
 
+Moodle usa el usuario ***infraestructura@avante.es*** (***no-reply@avante.es***) para sacar correos mediante SMTP, por consiguiente añado este usuario como excepción esta política.
 
+![Block](./img/202303231516.png)
 
